@@ -291,7 +291,8 @@ textarea {
 .block {
     position: relative;
     float: left;
-    margin-right: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 #weather {
@@ -308,7 +309,7 @@ textarea {
 }
 
 #twitter {
-    width: 20%;
+    width: 25%;
     height: 100%;
 }
 
