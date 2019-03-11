@@ -14,7 +14,7 @@ twttr.ready(function (twttr) {
     twttr.widgets.load();
     setInterval(function() {
         twttr.widgets.load();
-        console.log("update twitter timeline each second");
-    }, 1000);
+        console.log("update twitter timeline every minute.");
+    }, 60 * 1000);
 
 });
