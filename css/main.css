@@ -296,7 +296,7 @@ textarea {
 }
 
 #weather {
-    width: 50%;
+    width: 40%;
     bottom: 0;
 }
 
@@ -306,6 +306,7 @@ textarea {
 
 #timers {
     width: 25%;
+    height: 100%;
 }
 
 #twitter {
